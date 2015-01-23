@@ -2,6 +2,7 @@ html{
   background-color: #dbd6cf;
   color: black;
   font-family: Arial,sans-serif;
+  width:584px;
 }
 
 h1{
@@ -29,7 +30,6 @@ ol {
   font-style: underline;
   list-style: none;
   padding: 0
-
 }
 
 a {
@@ -38,4 +38,18 @@ a {
 
 a:hover {
   color: red;
+}
+
+ul {
+  list-style-type:lower-roman;
+}
+.grey {
+  color: #79756f; }
+.greyquote {
+  color: #79756f;
+  font-size: 3rem;}
+.italic {font-style: italic}
+.largeitalic {
+  font-family: 'Lobster', cursive;
+  font-size: 2rem;
 }
