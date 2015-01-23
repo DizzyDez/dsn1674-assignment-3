@@ -29,7 +29,7 @@ h3 {
 ol {
   font-style: underline;
   list-style: none;
-  padding: 0
+  padding: 0;
 }
 
 a {
@@ -43,13 +43,30 @@ a:hover {
 ul {
   list-style-type:lower-roman;
 }
+
 .grey {
   color: #79756f; }
+
 .greyquote {
   color: #79756f;
-  font-size: 3rem;}
-.italic {font-style: italic}
+  font-size: 3rem;
+}
+.greyneil {
+  color: #79756f;
+  font-size: 0.8rem;
+  text-align: right;
+}
+
+.italic {font-style: italic;}
+
 .largeitalic {
   font-family: 'Lobster', cursive;
   font-size: 2rem;
+}
+.caption {
+  font-size: 0.8rem;
+  font-style: italic;
+}
+.list {
+  list-style-type: circle;
 }
