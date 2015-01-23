@@ -1,0 +1,41 @@
+html{
+  background-color: #dbd6cf;
+  color: black;
+  font-family: Arial,sans-serif;
+}
+
+h1{
+  font-family: 'Alfa Slab One', cursive;
+  font-style: normal;
+  color: #79756f;
+  font-size: 2.2rem;
+}
+
+h2 {
+  font-family: 'Alfa Slab One', cursive;
+  font-style: normal;
+  color: #79756f;
+  font-size: 1.8rem;
+}
+
+h3 {
+  font-family: 'Alfa Slab One', cursive;
+  font-style: normal;
+  color: #79756f;
+  font-size: 1.2rem;
+}
+
+ol {
+  font-style: underline;
+  list-style: none;
+  padding: 0
+
+}
+
+a {
+  color: maroon;
+}
+
+a:hover {
+  color: red;
+}
