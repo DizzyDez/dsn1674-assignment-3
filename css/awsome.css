@@ -43,6 +43,11 @@ a:hover {
 ul {
   list-style-type:lower-roman;
 }
+p {
+  color: #79756f;
+  font-size: 0.8rem;
+  text-align: right;
+}
 
 .grey {
   color: #79756f; }
@@ -50,11 +55,7 @@ ul {
 .greyquote {
   color: #79756f;
   font-size: 3rem;
-}
-.greyneil {
-  color: #79756f;
-  font-size: 0.8rem;
-  text-align: right;
+  font-family: 'Alfa Slab One', cursive;
 }
 
 .italic {font-style: italic;}
@@ -67,6 +68,6 @@ ul {
   font-size: 0.8rem;
   font-style: italic;
 }
-.list {
+.circles {
   list-style-type: circle;
 }
