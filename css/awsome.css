@@ -48,7 +48,6 @@ p {
   font-size: 0.8rem;
   text-align: right;
 }
-
 .grey {
   color: #79756f; }
 
@@ -69,5 +68,6 @@ p {
   font-style: italic;
 }
 .circles {
-  list-style-type: circle;
+  list-style: circle;
+  padding: 20px;
 }
